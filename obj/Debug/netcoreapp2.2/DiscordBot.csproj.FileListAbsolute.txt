@@ -1,0 +1,11 @@
+/Users/aaron/Desktop/CodingDojoFiles/personalProjects/DiscordBot/obj/Debug/netcoreapp2.2/DiscordBot.csprojAssemblyReference.cache
+/Users/aaron/Desktop/CodingDojoFiles/personalProjects/DiscordBot/obj/Debug/netcoreapp2.2/DiscordBot.csproj.CoreCompileInputs.cache
+/Users/aaron/Desktop/CodingDojoFiles/personalProjects/DiscordBot/obj/Debug/netcoreapp2.2/DiscordBot.AssemblyInfoInputs.cache
+/Users/aaron/Desktop/CodingDojoFiles/personalProjects/DiscordBot/obj/Debug/netcoreapp2.2/DiscordBot.AssemblyInfo.cs
+/Users/aaron/Desktop/CodingDojoFiles/personalProjects/DiscordBot/bin/Debug/netcoreapp2.2/DiscordBot.deps.json
+/Users/aaron/Desktop/CodingDojoFiles/personalProjects/DiscordBot/bin/Debug/netcoreapp2.2/DiscordBot.runtimeconfig.json
+/Users/aaron/Desktop/CodingDojoFiles/personalProjects/DiscordBot/bin/Debug/netcoreapp2.2/DiscordBot.runtimeconfig.dev.json
+/Users/aaron/Desktop/CodingDojoFiles/personalProjects/DiscordBot/bin/Debug/netcoreapp2.2/DiscordBot.dll
+/Users/aaron/Desktop/CodingDojoFiles/personalProjects/DiscordBot/bin/Debug/netcoreapp2.2/DiscordBot.pdb
+/Users/aaron/Desktop/CodingDojoFiles/personalProjects/DiscordBot/obj/Debug/netcoreapp2.2/DiscordBot.dll
+/Users/aaron/Desktop/CodingDojoFiles/personalProjects/DiscordBot/obj/Debug/netcoreapp2.2/DiscordBot.pdb
